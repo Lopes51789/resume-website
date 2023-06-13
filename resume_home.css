@@ -1,0 +1,85 @@
+body{
+    background-color: #34495E;
+}
+
+.pagetitle{
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 3px 3px 10px black;
+}
+
+#pagetitle1{
+    font-size: 35px;
+    margin-bottom: -40px;
+    margin-left: -75px;
+}
+
+#pagetitle2{
+    font-size: 50px;
+    margin-bottom: 70px;
+}
+#profilepic{
+    size:50px;
+    position:absolute;
+}
+
+.about{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#name{
+    font-size: 25px;
+}
+
+#linkedin, #github, #callme{
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+
+.content{
+    background-color: #FFC107;
+    border:none;
+    border-radius: 5px;
+    cursor:pointer;
+    height: 50px;
+    width: 100px;
+    margin: 0;
+    position: absolute;
+}
+
+#skillsbuttom{   
+    top:225px;
+    left: 658px;
+}
+
+#xpbuttom{
+    top: 225px;
+    left: 780px;
+}
+
+#projbuttom{
+    top:285px;
+    left: 658px;
+}
+
+#awardsbuttom{
+    top:285px;
+    left: 780px;
+}
+
+#skills, #xp, #proj, #awards{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:black;
+    font-weight: 700;
+}
+
+#email{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+}
